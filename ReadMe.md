@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samet Kılıç 👋</h1>
 
-<h3 align="center">Software Developer 🚀</h3>
+<h3 align="center">Software Developer | Backend Architecture Enthusiast 🚀</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/samet-kılıç-984348237/">
@@ -10,7 +10,19 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- 🔭 I’m currently focusing on **scalable Backend Development and Microservices Architecture.**
+- 🌱 I’m constantly diving deeper into **Java, Spring Boot, RESTful APIs, and Distributed Systems.**
+- 🛠️ Actively exploring modern system design concepts and **Network Protocols.**
+- 👯 I’m open to collaborating on **backend-heavy applications or open-source Java projects.**
+- 💬 Ask me about **Java, Relational Databases, System Architecture, or PC Hardware.**
+- 📫 How to reach me: **[Connect with me on LinkedIn!](https://linkedin.com/in/samet-kılıç-984348237/)**
+
+---
+
 ## 💻 Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -26,15 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrZaherr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrZaherr&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+## 📊 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZaherr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
